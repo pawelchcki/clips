@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clips/clips.iml" filepath="$PROJECT_DIR$/.idea/modules/clips/clips.iml" group="clips" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clips/clips_main.iml" filepath="$PROJECT_DIR$/.idea/modules/clips/clips_main.iml" group="clips" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clips/clips_test.iml" filepath="$PROJECT_DIR$/.idea/modules/clips/clips_test.iml" group="clips" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/drone.iml" filepath="$PROJECT_DIR$/.idea/modules/drone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/drone_main.iml" filepath="$PROJECT_DIR$/.idea/modules/drone_main.iml" group="drone" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/drone_test.iml" filepath="$PROJECT_DIR$/.idea/modules/drone_test.iml" group="drone" />
+    </modules>
+  </component>
+</project>
