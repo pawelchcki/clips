@@ -1,6 +1,8 @@
 group 'ai'
 version '0.0.1-SNAPSHOT'
 apply plugin: 'java'
+apply plugin: 'idea'
+apply plugin: 'application'
 
 sourceCompatibility = 1.8
 
@@ -8,7 +10,10 @@ repositories {
     mavenCentral()
 }
 
+mainClassName = "drone.Main"
+
 dependencies {
-    compile project(":clipsrules")
+    compile project(":clips")
+    compile group: 'com.google.inject', name: 'guice', version: '4.1.0'
     testCompile group: 'junit', name: 'junit', version: '4.11'
 }
